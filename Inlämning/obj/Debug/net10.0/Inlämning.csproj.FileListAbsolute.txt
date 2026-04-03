@@ -1,0 +1,14 @@
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\bin\Debug\net10.0\Inlämning.exe
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\bin\Debug\net10.0\Inlämning.deps.json
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\bin\Debug\net10.0\Inlämning.runtimeconfig.json
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\bin\Debug\net10.0\Inlämning.dll
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\bin\Debug\net10.0\Inlämning.pdb
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\Inlämning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\Inlämning.AssemblyInfoInputs.cache
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\Inlämning.AssemblyInfo.cs
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\Inlämning.csproj.CoreCompileInputs.cache
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\Inlämning.dll
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\refint\Inlämning.dll
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\Inlämning.pdb
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\Inlämning.genruntimeconfig.cache
+C:\Users\axaha\OneDrive\Skrivbord\Inlämning\Inlämning\obj\Debug\net10.0\ref\Inlämning.dll

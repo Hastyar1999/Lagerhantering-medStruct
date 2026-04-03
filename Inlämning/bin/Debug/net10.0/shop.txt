@@ -1,0 +1,10 @@
+1;Sneakers Nike Air;1299;15;2026-03-01
+2;Känga Timberland;2100;8;2026-03-01
+3;Löparsko Adidas;1550;22;2026-03-02
+4;Sandaler Birkenstock;950;30;2026-03-02
+5;Festsko Läder;1800;5;2026-03-03
+6;Tofflor Cozy;299;40;2026-03-03
+7;Vinterstövel North;1999;12;2026-03-04
+8;Gympasko Puma;1200;18;2026-03-04
+9;Flipflops Basic;199;50;2026-03-05
+10;Chelsea Boot;1750;9;2026-03-05
